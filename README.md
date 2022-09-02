@@ -1,2 +1,2 @@
 # background-generator
-an css Background generatot
+an html css and js Background generator
